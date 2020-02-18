@@ -32,10 +32,6 @@ In the /public/workbench.html file
   - provide your Sunshine conversation App ID in : `const appID = "[your app id]";`
   - in the `function getMessages()`, provide your server address in the fetch: `https://[your URL]/users/'+appUserId+'/messages`
 
-**- On Intercom:**
-
-In the developer hub, in your app webhook section, provide the endpoint to receive Intercom messages: `https://[your URL]/intercom`
-
 **- On Sunshine Conversation:**
   1. Setup a webhook to receive and analyse appMaker messages: `https://[your URL]/agentmessage`
   2. Setup the Pipeline in this order
