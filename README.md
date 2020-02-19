@@ -1,4 +1,4 @@
-# sunco-logitech-demo
+# sunco-pipeline-analyzer-processor-demo
 ## How to make it run?
 ### Prerequisite
 1. A Sunshine conversation App
