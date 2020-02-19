@@ -1,5 +1,3 @@
-const Storage = require('./storage');
-
 class Analyzer {
     constructor() {
         console.log("Analyzer reset");
